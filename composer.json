@@ -1,0 +1,17 @@
+{
+    "name": "zookal/cdn",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "homepage": "https://github.com/magefm/cdn",
+    "description": "[WIP] Magento CDN module that allows hosting all media on AWS S3. A must when you need to scale Magento horizontally.",
+    "authors": [
+        {
+            "name": "Rafael Kassner",
+            "email": "{lastname}@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "~5.5.0|~5.6.0",
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

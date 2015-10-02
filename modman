@@ -1,0 +1,5 @@
+app/etc/modules/*						app/etc/modules/
+app/code/community/MageFM/CDN			app/code/community/MageFM/CDN
+app/locale/en_US/*						app/locale/en_US/
+app/locale/pt_BR/*						app/locale/pt_BR/
+lib/*									lib/
